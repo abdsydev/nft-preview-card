@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg) 
+![](./phase-#1-newbie-nft-preview-card.png) 
 
 ### Links
 
