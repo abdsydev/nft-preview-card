@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/abdsydev/nft-preview-card](https://github.com/abdsydev/nft-preview-card)
-- Live Site URL: []()
+- Live Site URL: [https://abdsydev.github.io/nft-preview-card/](https://abdsydev.github.io/nft-preview-card/)
 
 ## My process
 
